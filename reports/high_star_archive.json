@@ -1,18 +1,4 @@
 {
-  "vllm-project/vllm": {
-    "first_seen": "2026-10-11",
-    "archived_at": "2026-10-15",
-    "cooldown_until": "2026-11-14",
-    "stars": 93810,
-    "occurrences": 3
-  },
-  "obra/superpowers": {
-    "first_seen": "2026-10-02",
-    "archived_at": "2026-10-15",
-    "cooldown_until": "2026-11-14",
-    "stars": 299592,
-    "occurrences": 3
-  },
   "unslothai/unsloth": {
     "first_seen": "2026-10-14",
     "archived_at": "2026-10-17",
@@ -243,5 +229,19 @@
     "cooldown_until": "2026-12-29",
     "stars": 458315,
     "occurrences": 5
+  },
+  "microsoft/playwright": {
+    "first_seen": "2026-11-13",
+    "archived_at": "2026-11-15",
+    "cooldown_until": "2026-12-15",
+    "stars": 100212,
+    "occurrences": 3
+  },
+  "vllm-project/vllm": {
+    "first_seen": "2026-10-11",
+    "archived_at": "2026-11-15",
+    "cooldown_until": "2026-12-30",
+    "stars": 96946,
+    "occurrences": 4
   }
 }
