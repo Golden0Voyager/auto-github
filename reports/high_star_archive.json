@@ -1,18 +1,4 @@
 {
-  "stablyai/orca": {
-    "first_seen": "2026-09-30",
-    "archived_at": "2026-10-18",
-    "cooldown_until": "2026-11-17",
-    "stars": 95695,
-    "occurrences": 3
-  },
-  "heygen-com/hyperframes": {
-    "first_seen": "2026-10-15",
-    "archived_at": "2026-10-18",
-    "cooldown_until": "2026-11-17",
-    "stars": 66147,
-    "occurrences": 3
-  },
   "ruvnet/ruflo": {
     "first_seen": "2026-10-15",
     "archived_at": "2026-10-20",
@@ -257,5 +243,19 @@
     "cooldown_until": "2027-01-01",
     "stars": 74802,
     "occurrences": 5
+  },
+  "obra/superpowers": {
+    "first_seen": "2026-10-02",
+    "archived_at": "2026-11-18",
+    "cooldown_until": "2027-01-02",
+    "stars": 319630,
+    "occurrences": 4
+  },
+  "deepseek-ai/deepseek-harness": {
+    "first_seen": "2026-10-05",
+    "archived_at": "2026-11-18",
+    "cooldown_until": "2027-01-02",
+    "stars": 283339,
+    "occurrences": 4
   }
 }
