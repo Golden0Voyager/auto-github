@@ -257,5 +257,12 @@
     "cooldown_until": "2027-01-02",
     "stars": 283339,
     "occurrences": 4
+  },
+  "modelcontextprotocol/typescript-sdk": {
+    "first_seen": "2026-09-30",
+    "archived_at": "2026-11-19",
+    "cooldown_until": "2027-01-03",
+    "stars": 13786,
+    "occurrences": 4
   }
 }
