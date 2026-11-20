@@ -1,11 +1,4 @@
 {
-  "ruvnet/ruflo": {
-    "first_seen": "2026-10-15",
-    "archived_at": "2026-10-20",
-    "cooldown_until": "2026-11-19",
-    "stars": 77382,
-    "occurrences": 3
-  },
   "anomalyco/opencode": {
     "first_seen": "2026-10-19",
     "archived_at": "2026-10-21",
@@ -264,5 +257,19 @@
     "cooldown_until": "2027-01-03",
     "stars": 13786,
     "occurrences": 4
+  },
+  "mvanhorn/last30days-skill": {
+    "first_seen": "2026-11-18",
+    "archived_at": "2026-11-20",
+    "cooldown_until": "2026-12-20",
+    "stars": 71089,
+    "occurrences": 3
+  },
+  "ChromeDevTools/chrome-devtools-mcp": {
+    "first_seen": "2026-11-16",
+    "archived_at": "2026-11-20",
+    "cooldown_until": "2026-12-20",
+    "stars": 58444,
+    "occurrences": 3
   }
 }
